@@ -2,8 +2,8 @@ class Translation(object):
     START_TEXT = """Hey [{}](tg://user?id={}), I am Video Streaming Link Generator Bot,
 
 check /help to know more."""
-    DOWNLOAD_START = "📥Downloading📥"
-    UPLOAD_START = "📤Uploading📤"
+    DOWNLOAD_START = "📥Downloading📥 By Shikari"
+    UPLOAD_START = "📤Uploading📤 By Shikari"
     HELP_USER = """Hey [{}](tg://user?id={}), I am Video Streaming Link Generator Bot,
 
 /jw - Stream any JWPlayer video .
